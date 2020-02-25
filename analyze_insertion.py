@@ -2,7 +2,7 @@
     Analyze feature insertion (w. Eager Execution of TF)
 """
 import csv, os, sys
-# suppress tensorflow errors -- too many, who's the developer?
+# suppress tensorflow errors -- too many, what's the purpose?
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 import json
