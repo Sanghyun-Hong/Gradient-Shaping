@@ -1,7 +1,7 @@
 # On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping
 
 This repository contains the code for the paper <br>
-[_On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping_]().
+[_On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping_](https://arxiv.org/abs/2002.11497).
 
 **Authors:** [Sanghyun Hong](http://sanghyun-hong.com), [Varun Chandrasekaran](http://pages.cs.wisc.edu/~chandrasekaran/), [Yiǧitcan Kaya](http://www.cs.umd.edu/~yigitcan), [Tudor Dumitraș](http://users.umiacs.umd.edu/~tdumitra/), and [Nicolas Papernot](https://www.papernot.fr/) <br>
 **Contact:** [Sanghyun Hong](mailto:shhong@cs.umd.edu)
@@ -212,14 +212,19 @@ You are encouraged to cite our paper if you use this code for academic research.
 
 ```
 @article{Hong20GS,
-  author    = {Sanghyun Hong and
-               Varun Chandrasekaran and
-               Yigitcan Kaya and
-               Tudor Dumitras and
-               Nicolas Papernot},
-  title     = {On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping},
-  year      = {2020},
-  url       = {},
+    author        = {Sanghyun Hong and
+                     Varun Chandrasekaran and
+                     Yiğitcan Kaya and
+                     Tudor Dumitraş and
+                     Nicolas Papernot},
+    title         = {On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping},
+    journal       = {CoRR},
+    volume        = {abs/2002.11497},
+    year          = {2020},
+    url           = {https://arxiv.org/abs/2002.11497},
+    archivePrefix = {arXiv},
+    eprint        = {2002.11497},
+    timestamp     = {Wed, 26 Feb 2020 14:04:16 +0100},
 }
 ```
 
